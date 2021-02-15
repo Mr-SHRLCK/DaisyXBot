@@ -191,9 +191,8 @@ __help__ = """
 *ForceSubscribe:*
 
 *Channel Manageer Inbuilt*
-✪ I can stop texting members of your group until they subscribe to one or more channels..
-✪ If members are not connected to your channel I can mute them and tell them to join the channel and I can mute them at the push of a button.
-
+✪ ඔයාගෙ ගෲප් එකේ මෙම්බර්ස්ල Channel එකක් හෝ කිහිපයක් Subscribe කරනකන් Message දාන එක නවත්තන්න මට පුලූවන්.
+✪ සාමාජිකයන් ඔබේ Channel  එකට සම්බන්ධ නොවූයේ නම් මම ඔවුන්ව නිශ්ශබ්ද කර channel එකට සම්බන්ධ වන ලෙස පවසන්න සහ බොත්තමක් එබීමෙන් ඔවුන්ව නිශ්ශබ්ද කරන්න මට පුලුවන්.
 
 *Setup*
 1) First of all add me in the group as admin with ban users permission and in the channel as admin.
@@ -207,7 +206,7 @@ Note: Only creator of the group can setup me and i will not allow force subscrib
 
 Note: /FSub is an alias of /ForceSubscribe
 
-💭 Only Available In Daisy
+💭 Only on Sinhala 🇱🇰 yet
  
 """
 __mod_name__ = "📢 Force Subscribe 💭"
