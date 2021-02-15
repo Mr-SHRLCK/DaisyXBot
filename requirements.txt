@@ -29,7 +29,7 @@ spamwatch
 alphabet_detector
 pyrate-limiter
 cachetools
-pyrogram>=1.0.7
+pyrogram>=1.1.13
 tgCrypto>=1.2.2
 fontTools
 gtts
