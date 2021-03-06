@@ -50,8 +50,7 @@ from DaisyX import (
     StartTime,
     dispatcher,
     pbot,
-    telethn,
-    updater,
+
 )
 
 # needed to dynamically load modules
@@ -252,7 +251,7 @@ def error_handler(update, context):
     )
 
     if len(message) >= 4096:
-        message = message[:4096]
+        message = messa
     # Finally, send the message
     context.bot.send_message(chat_id=OWNER_ID, text=message, parse_mode=ParseMode.HTML)
 
